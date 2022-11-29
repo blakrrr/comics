@@ -1285,7 +1285,7 @@
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
 			content: '';
-			background-color: #42424f;
+			background-color: #008080;
 			display: block;
 			height: 100%;
 			left: 0;
