@@ -1280,14 +1280,10 @@
 		}
 
 		#banner:before {
-			-moz-transition: opacity 3s ease;
-			-webkit-transition: opacity 3s ease;
-			-ms-transition: opacity 3s ease;
-			transition: opacity 3s ease;
-			-moz-transition-delay: 1s;
-			-webkit-transition-delay: 1s;
-			-ms-transition-delay: 1s;
-			transition-delay: 1s;
+			-moz-transition: opacity 0.1s ease;
+			-webkit-transition: opacity 0.1s ease;
+			-ms-transition: opacity 0.1s ease;
+			transition: opacity 0.1s ease;
 			content: '';
 			background-color: #42424f;
 			display: block;
