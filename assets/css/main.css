@@ -1208,10 +1208,11 @@
 			}
 
 		#banner p {
-			color: rgba(250, 255, 0, 1);
+			color: rgba(0, 0, 255, 1);
 			font-size: 1.5em;
 			font-weight: 300;
 			font-family: 'Brush Script MT', cursive;
+			text-decoration: underline;
 		}
 
 			@media screen and (max-width: 980px) {
